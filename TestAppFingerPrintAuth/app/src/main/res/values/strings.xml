@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestAppFingerPrintAuth</string>
+    <string name="finger_placement_message">Please place your fingertip on the scanner to verify your identity</string>
+    <string name="successful_login_message">You have successfully logged in with fingerprint authentication</string>
+    <string name="finger_print_authentication_not_enabled_message">Fingerprint Authentication not enabled</string>
+    <string name="register_request_message">Register at least one fingerprint in settings</string>
+    <string name="lock_screen_security_not_enabled_message">Lock screen security not enabled in Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="Fing_not_e">"Fingerprint "</string>
+</resources>

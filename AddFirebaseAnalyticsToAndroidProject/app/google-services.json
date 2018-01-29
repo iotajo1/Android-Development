@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636274210858",
+    "firebase_url": "https://addfirebaseanalytic.firebaseio.com",
+    "project_id": "addfirebaseanalytic",
+    "storage_bucket": "addfirebaseanalytic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636274210858:android:ae348cd9d7899b21",
+        "android_client_info": {
+          "package_name": "com.github.iotajo1.addfirebaseanalyticstoandroidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636274210858-n4qb2arufmd4olfdfdelbh7bqvc0673j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQBbTgpalhEJCv920rq97_FZqjJtd7yaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
